@@ -12,7 +12,7 @@
   ],
   "types": "./index.d.ts",
   "dependencies": {
-    "thunk-redis": "^2.2.0"
+    "thunk-redis": "^2.2.2"
   },
   "devDependencies": {
     "autod": "^3.0.0",
