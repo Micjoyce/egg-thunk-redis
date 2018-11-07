@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="1.0.1"></a>
+## 1.0.1 (2018-11-07)
+
+
+### Features
+
+* init ([8a3899c](https://github.com/eggjs/egg-thunk-redis/commit/8a3899c))
+* update thunk-redis 2.2.3 ([18f9d88](https://github.com/eggjs/egg-thunk-redis/commit/18f9d88))
+
+
+
 <a name="1.0.0"></a>
 # 1.0.0 (2018-09-21)
 
